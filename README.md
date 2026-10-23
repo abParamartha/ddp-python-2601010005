@@ -12,3 +12,8 @@
 
 ## Cara menjalankan
 python latihan1_biodata.py
+pilih salah satu latihan dan baru di run kan
+latihan1_biodata.py
+latihan2_persegi_panjang.py
+latihan3_konversi_suhu.py
+latihan4_total_belanja.py
